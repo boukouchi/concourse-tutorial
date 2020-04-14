@@ -3,8 +3,10 @@ resources:
   - name: resource-tutorial
     type: git
     source:
-      uri: https://github.com/starkandwayne/concourse-tutorial.git
-      branch: develop
+      uri: https://github.com/boukouchi/concourse-tutorial.git
+      branch: patch-1
+      #uri: https://githuri: https://github.com/boukouchi/concourse-tutorial.gitub.com/starkandwayne/concourse-tutorial.git
+      #branch: develop
       #It gerenrate this error :
       #fatal: unable to access 'https://github.com/starkandwayne/concourse-tutorial.git/': SSL certificate problem: unable to get local issuer certificate
 
