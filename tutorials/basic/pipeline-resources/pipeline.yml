@@ -5,6 +5,34 @@ resources:
     source:
       uri: https://github.com/boukouchi/concourse-tutorial.git
       branch: patch-1
+      private_key: |
+        -----BEGIN RSA PRIVATE KEY-----
+        MIIEpAIBAAKCAQEAystCXBeWm2fjhZ/fZic6G7VZDaISdS8LQpTN0BQQ4xKg87id
+        C0VkBIZZqkLdPXYtDjxu/6SmSQZ/KXZ0Lunr1reGgN3yrcqQqSWqRr7Uf2PAUrkZ
+        kCLRNAWrHaEuOEXmPGd1SjZdh8ZrlOig3giJAQv7rf/0ESeK/hW1luIFiqCzMWyF
+        s85oNFxCEsU1pYnjoSw5xCe5j8bzQozxGNSfJEIIVES60KFFzsHX07tDjmI51leP
+        qgWu4tmYPasHi6WfcNSE2o67SRdBvQ21w9nBkIOuzrhO9A0k805Dc93V4cVez81B
+        W2svo/Roso3f2SfiVumuUI6L3mcQuS/XD3RtbQIDAQABAoIBAELvCa0ZwAT1KjyN
+        gw/VfLFujsEYMF1rNJ06PiAir1wzZtpqobL5qURxD6FJxnolykM7oStRrezGbyxB
+        Q6HEZaoOEx/voczI4ixiGSyWic6uHulu3MgdJc203UC/VWEPeSmQwD7JaN+KlzGk
+        AoymZono6Z4JsAYFdjPc+H2fhlK1lqiQF59E1kMF2BpWtUa72dYNbS8bDCddk+/Y
+        nC79L2fFATAwA/ABoYtJYXIxdLbF6wDroVRtGyUj5TlNQvEu52bU+kQL0DRE/z+T
+        Mgv1B04vtUfDeaow9xsIpe6sSdeDO4ovd/fVfiOhU7XgDDliXvNxYjBHc3QJ7vEr
+        5ppy66UCgYEA+6bEhKdrpVLSH51kAXgwDpMg+sH9qaLLuiNF0pKovVS4gWSGvRm3
+        YFRDLZj4F+ratLVSVRFPzlhXCg8/Js0oEz9yTATfi86Qi2alKtMEgPxoOlCRWhtz
+        gOGAxY6ql5oSE3HSH5g/HyacB1sMkWNS6bjIO0liVUEe7mC9ptRvonMCgYEAzkxc
+        SE1FW28hdCcF9ig/oot3fCos3S9LlxL8m0e57mpVGWD80iZtR9PEHXh+hHr8y1vn
+        OXu+0UhygMUk/voXtqjXICup53Zkumz12wN+5uc5LcANNeT72t1vs2utWW5+gqGI
+        yBYFx2hqaZyrwckzlkKkp69x8pHnZWydUTvdWJ8CgYAYOrhVJWGB63V7wcWtNos5
+        /ASC4EayHJCM/XRtj91bTVruamVms6EqTzKgo0fP1bb1CzhAJIiQj4Th3RHxhHNF
+        VyiEFTwI0/yqz1k7xFF8sdC/PJ6iFF6MnCmv28qlChqPcLgQfrIlJ6yCMMwG+48y
+        Ha55ttkW6Ew4G2xnMbEF7QKBgQCnzoteMKSTLIF81uVNhw3ELUgjErdtr7QADmy1
+        7pE6cvoH69GbK7DGtWYYRtQ69UO+M2KRaqwb1p91SWe/lDVH2m0q+Pl6kt56mnke
+        Dujh8AGdylO0nC+Vp3vd6V+XmH6FydnWT7uhqbitcchwmDZDKrB+ygKZOr+Ly97n
+        nhd9pwKBgQC95YqyBBvMLjFeJT3tLXbWLxUq/OG3qFHpdTb85SbvksuVdtruGoiG
+        zJCFdLogZub2io3Po9mHI30Ckz/nNK2cUpcuzG42w7dR47GQq+UfgMkCsN6eoR6n
+        7Tv421vRlEBmNd73e0JyxWdpV3gSXmJ7QIIf2oNHzfKjcqV6WuOrdg==
+        -----END RSA PRIVATE KEY-----
       #uri: https://githuri: https://github.com/boukouchi/concourse-tutorial.gitub.com/starkandwayne/concourse-tutorial.git
       #branch: develop
       #It gerenrate this error :
